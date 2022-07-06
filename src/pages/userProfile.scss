@@ -1,0 +1,33 @@
+.userProfile_bio {
+  margin: 20px 0 20px 0;
+}
+
+.repo__items {
+  margin-top: 30px;
+
+  .repo__item {
+    list-style: none;
+
+    .repo__link {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 10px;
+      width: 300px;
+      height: 30px;
+      border: 1px solid grey;
+      border-radius: 5px;
+      margin: auto;
+      margin-bottom: 15px;
+
+      .repo__name {
+        width: 200px;
+      }
+
+      .repo__forks-stars {
+        display: flex;
+        flex-direction: column;
+      }
+    }
+  }
+}

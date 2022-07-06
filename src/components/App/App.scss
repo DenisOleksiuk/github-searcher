@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+
+  .App__title {
+    text-shadow: 1px 1px 1px #00f8ff;
+  }
+}
+
+a:link,
+a:visited {
+  color: darkcyan;
+  text-decoration: none;
+}

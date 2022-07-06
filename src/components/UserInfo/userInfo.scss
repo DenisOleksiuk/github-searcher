@@ -1,0 +1,33 @@
+.userInfo {
+  margin-top: 100px;
+
+  .userInfo_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .userInfo_avatar {
+      width: 200px;
+      height: 150px;
+      object-fit: contain;
+      margin-right: 35px;
+    }
+
+    .userInfo_info {
+      text-align: start;
+
+      .userInfo_info-row {
+        margin-bottom: 20px;
+        font: 1.3em sans-serif;
+      }
+
+      .userInfo_info-row:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+
+  .userInfo_bio {
+    margin: 20px 0 20px 0;
+  }
+}
