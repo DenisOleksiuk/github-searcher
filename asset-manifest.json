@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/denisoleksiuk/github-searcher/static/css/main.0537a522.css",
+    "main.js": "/denisoleksiuk/github-searcher/static/js/main.317295ad.js",
+    "static/js/787.004ae3f7.chunk.js": "/denisoleksiuk/github-searcher/static/js/787.004ae3f7.chunk.js",
+    "index.html": "/denisoleksiuk/github-searcher/index.html",
+    "main.0537a522.css.map": "/denisoleksiuk/github-searcher/static/css/main.0537a522.css.map",
+    "main.317295ad.js.map": "/denisoleksiuk/github-searcher/static/js/main.317295ad.js.map",
+    "787.004ae3f7.chunk.js.map": "/denisoleksiuk/github-searcher/static/js/787.004ae3f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0537a522.css",
+    "static/js/main.317295ad.js"
+  ]
+}
