@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/denisoleksiuk/github-searcher/static/css/main.0537a522.css",
-    "main.js": "/denisoleksiuk/github-searcher/static/js/main.317295ad.js",
-    "static/js/787.004ae3f7.chunk.js": "/denisoleksiuk/github-searcher/static/js/787.004ae3f7.chunk.js",
-    "index.html": "/denisoleksiuk/github-searcher/index.html",
-    "main.0537a522.css.map": "/denisoleksiuk/github-searcher/static/css/main.0537a522.css.map",
-    "main.317295ad.js.map": "/denisoleksiuk/github-searcher/static/js/main.317295ad.js.map",
-    "787.004ae3f7.chunk.js.map": "/denisoleksiuk/github-searcher/static/js/787.004ae3f7.chunk.js.map"
+    "main.css": "/github-searcher/static/css/main.0537a522.css",
+    "main.js": "/github-searcher/static/js/main.e043c0a8.js",
+    "static/js/787.004ae3f7.chunk.js": "/github-searcher/static/js/787.004ae3f7.chunk.js",
+    "index.html": "/github-searcher/index.html",
+    "main.0537a522.css.map": "/github-searcher/static/css/main.0537a522.css.map",
+    "main.e043c0a8.js.map": "/github-searcher/static/js/main.e043c0a8.js.map",
+    "787.004ae3f7.chunk.js.map": "/github-searcher/static/js/787.004ae3f7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0537a522.css",
-    "static/js/main.317295ad.js"
+    "static/js/main.e043c0a8.js"
   ]
 }
